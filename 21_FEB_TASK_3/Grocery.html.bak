@@ -1,0 +1,155 @@
+<!doctype>
+	<html>
+		<head>
+			<title>
+			Grocery
+			</title>
+		</head>
+		<body>
+			<ul>
+				<li>page 1 <a href="Home Page.html">Home Page</a><br/></li>
+				<li>page 2 <a href="Foods.html">Foods</a><br/></li>
+				<li>page 3 <a href="Grocery.html">Grocery</a><br/></li>
+				<li>page 4 <a href="About.html">About</a><br/></li>
+				</p>
+			</ul>
+			
+			<h1>
+			GROCERY 
+			</h1>
+			<h3>
+			Grocery Item List:
+			</h3>
+			<p>
+			<ul>
+			<li>Wheat</li> 
+			<li>Rice</li>
+			<li>Sugar</li>
+			<li>Oil</li>
+			<li>Flour</li>
+			<li>Pulses</li>
+			<li>Spices</li>
+			<li>Salt</li>		
+			<li>Spaghetti</li>		
+			<li>Shampoo</li>		
+			<li>Soap</li>		
+			<li>Detergent</li>		
+			<li>Tooth-paste</li>		
+			<li>Tooth-brush</li>		
+			<li>Tea Whitener</li>		
+			<li>Chips</li>		
+			<li>Biscuits</li>		
+			<li>Cheese</li>			
+			</ul>
+			</p>
+			
+			<h3>
+			Grocery Item List With Prices:
+			</h3>
+			<p>
+				<ul>
+				<li>Wheat per kg.................<del>Rs:110</del>......Rs:90</li> 
+				<li>Rice per kg..................<del>Rs:160</del>......Rs:130</li>
+				<li>Sugar per kg.................<del>Rs:120</del>......Rs:90</li>
+				<li>Oil/Banaspati per liter......<del>Rs:500</del>......Rs:400</li>
+				<li>Flour per kg.................<del>Rs:140</del>......Rs:100</li>
+				<li>Pulses per kg................<del>Rs:200</del>......Rs:160</li>
+				<li>Spices per 100 gram..........<del>Rs:220</del>......Rs:150</li>
+				<li>Salt per kg..................<del>Rs:40</del>.......Rs:30</li>		
+				<li>Spaghetti per packet.........<del>Rs:160</del>......Rs:130</li>		
+				<li>Shampoo small bottle.........<del>Rs:400</del>......Rs:300</li>		
+				<li>Soap large bar...............<del>Rs:90</del>.......Rs:70</li>		
+				<li>Detergent small pouch........<del>Rs:250</del>......Rs:200</li>		
+				<li>Tooth-paste small tube.......<del>Rs:250</del>......Rs:200</li>		
+				<li>Tooth-brush..................<del>Rs:80</del>.......Rs:60</li>		
+				<li>Tea Whitener small pouch.....<del>Rs:250</del>......Rs:200</li>
+				</ul>
+			</p>
+			
+				<h3>
+				Packages of Deal:
+				</h3>
+			<p>
+				
+				<h4>
+				Package 1
+				</h4>
+				10 kg Wheat,
+				10 kg Rice,
+				5 kg Sugar,
+				5 liter Oil/Banaspati,
+				1 Tooth-paste,
+				1 pouch of Tea Whitener,
+				2 kg different Pulses,
+				1 Salt.<br/>
+				
+				Price: ----------before:<del>5,400</del>----------after:<ins><b>4,000</b></ins>
+				
+				<h4>
+				Package 2
+				</h4>
+				5 kg Wheat,
+				5 kg Rice,
+				3 kg Sugar,
+				3 liter Oil/Banaspati,
+				1 Tooth-paste,
+				1 pouch of Tea Whitener,
+				1 kg different Pulses,
+				500 gram spices
+				1 Salt,
+				1 Spaghetti.<br/>
+				
+				Price: ----------before:<del>4,040</del>----------after:<ins><b>3,100</b></ins>
+				
+				<h4>
+				Package 3
+				</h4>
+				20 kg Wheat,
+				15 kg Rice,	
+				8 kg Sugar,
+				10 liter Oil/Banaspati,
+				2 Tooth-paste,
+				2 pouch of Tea Whitener,
+				3 kg different Pulses,
+				1 kg spices
+				3 Salt,
+				3 Spaghetti,
+				5 Tooth-brushes,
+				2 Detergent small pouch,
+				6 Soap large bar,
+				3 Shampoo small bottle.<br/>
+				
+				Price: ----------before:<del>13,750</del>----------after:<ins><b>10,000</b></ins>
+				
+				<h4>
+				Package 4
+				</h4>
+				5 kg Flour
+				2 Spaghetti
+				1 Salt
+				3 liter Oil
+				300 gram Spices
+				1 kg Pulses<br/>
+				
+				Price: ----------before:<del>2,600</del>----------after:<ins><b>2,000</b></ins>
+				
+				<h4>
+				Package 5
+				</h4>
+				
+				10 kg Wheat
+				10 kg Flour
+				10 kg Rice 
+				4 kg Sugar
+				2 Tea Whitener
+				200 gram Spices
+				2 kg Pulses
+				2 liter Oil/Banaspati<br/>
+				
+				Price: ----------before:<del>5,380</del>----------after:<ins><b>4,200</b></ins>
+			</p>
+			 
+			
+		</body>
+	</html>
+Display Packages of Deal with Kitchen Items (before and after sale price)
